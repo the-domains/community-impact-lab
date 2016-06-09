@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Community Impact LAB]]></title>
+        <description><![CDATA[Community Impact LAB]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 09 Jun 2016 20:28:56 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[We're changing the way families live, work, and give!]]></title>
+            <description><![CDATA[<article><h1>We're changing the way families live, work, and give!</h1><p>We have a mission to engage families, empower parents, and envision solutions to challenges in our communities in our Family Support, Learning, and Social Good LABs. </p></article>]]></description>
+            <link>undefinedwere-changing-the-way-families-live-work-and-give/index.html</link>
+            <guid isPermaLink="false">fdcb082f-595a-431c-aff3-d075002060a3</guid>
+            <pubDate>Thu, 09 Jun 2016 20:28:55 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
